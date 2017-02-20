@@ -1,11 +1,12 @@
 # Tech industry Handbook
 
-A collaborative project for women and other minorities joining the tech industry by people who've been down that road
-already and want them to succeed.
+This is a collaborative project for women and other minorities joining the tech industry by people who've been down that
+road already and want them to succeed.
 
-Please click the title of this document above and then click the edit icon (a pencil) to make changes to this document.
-If you're reading this and you feel any emotions at all then your input is essential. If you'd rather contribute
-anonymously email [tech-industry@jackcanty.com](mailto:tech-industry@jackcanty.com) and we'll add your edits.
+Please [edit this document](https://github.com/JackDanger/joining-the-tech-industry/edit/master/README.md) to show folks joining their
+first tech job what to look out for. If you're reading this and you feel any emotions at all then your input is
+essential. If you'd rather contribute anonymously email
+[tech-industry@jackcanty.com](mailto:tech-industry@jackcanty.com) and we'll add your edits.
 
 # Be prepared
 
