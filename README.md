@@ -3,38 +3,102 @@
 This is a collaborative project for women and other minorities joining the tech industry by people who've been down that
 road already and want them to succeed.
 
-Please [edit this document](https://github.com/JackDanger/joining-the-tech-industry/edit/master/README.md) to show folks joining their
-first tech job what to look out for. If you're reading this and you feel any emotions at all then your input is
-essential. If you'd rather contribute anonymously email
-[tech-industry@jackcanty.com](mailto:tech-industry@jackcanty.com) and we'll add your edits.
+Please [edit this document](https://github.com/JackDanger/joining-the-tech-industry/edit/master/README.md) to tell folks
+joining their first tech job what to look out for. If you're reading this and you feel any emotions at all then your
+input is essential. You can also [contribute anonymously](mailto:tech-industry@jackcanty.com) and we'll add your edits.
 
 # Be prepared
 
 The tech industry is a marvel of innovation and a career here can mean solving the world's problems while making more
-than enough money. It can also mean getting abused and hurt by a system that prioritizes profits and the status the
-founders/investors over the sanity and safety of employees. Here are some things you need to know to navigate your first
-(or next) job in the tech industry so that you don't leave the field entirely or waste your tears on organizations that
-don't deserve them.
+than enough money for yourself. It can also mean getting abused and hurt by a system that prioritizes profits and the
+status of founders/investors over the sanity and safety of employees. Here are some things you need to know to navigate
+your first (or next) job in the tech industry so that you don't leave the field entirely or waste your tears on
+organizations that don't deserve them.
 
 
 ## Table of Contents
-[Human Resources][#human-resources]
-  [HR and Sexual Harassment][#hr-and-sexual-harassment]
-[Promotions][#promotions]
-  [Levels][#levels]
-    [Know your level][#know-your-level]
-  [Transitioning to Management][#transitioning-to-management]
-  [If you can't advance][#if-you-cant-advance]
-  [Advancing for women and other minorities][#advancing-for-women-and-other-minorities]
+* [Recruiting](#recruiting)
+  * [Engineering Interviews](#engineering-interviews)
+  * [Exploding Offers](#exploding-offers)
+  * [Interview Everywhere](#interview-everywhere)
+  * [Promises](#promises)
+* [Human Resources](#human-resources)
+  * [HR and Sexual Harassment](#hr-and-sexual-harassment)
+* [Promotions](#promotions)
+  * [Levels](#levels)
+    * [Know your level](#know-your-level)
+  * [Transitioning to Management](#transitioning-to-management)
+  * [If you can't advance](#if-you-cant-advance)
+  * [Advancing for women and other minorities](#advancing-for-women-and-other-minorities)
 
+## Recruiting
+A recruiter's job is to bring in candidates who are likely to pass the company interview process. Interviews are poor
+predictors of job success and engineering interviews are even more so. The whole process from a recruiter trying to
+bring you in to getting an offer letter can be many weeks long and varies from company to company.
+
+### Engineering Interviews
+
+If you feel dumb in your interview your interviewer has failed and is not somebody you want to work with.
+If you feel disrespected during your interview you should stand up and walk out of the company immediately because
+that company isn't worth your time and the people you want to work with refuse to work there.
+If they ask you lots of algorithmic questions that's not because they think algorithms are essential to your job, they
+just have no better idea how to evaluate you.
+
+Go in to your interview with good questions. A sample of things you'll need to know:
+
+* Who was the woman most recently promoted at this company? Can I talk to her?
+
+  An answer that's anything other than "I think her name is X and I'll see if she's available" means you're wasting your
+  time.
+
+* What's your parental leave policy?
+
+  Maybe you don't intend to have children soon (or ever) but if the company doesn't value parenting then that's a sign
+  they prioritize people who look and act just like the founding team.
+
+* Tell me about the last time you went out with coworkers where nobody drank alcohol.
+
+  It's possible the interviewer cannot think of a time. This is pretty common but they should at least honor the
+  question and be a little chagrined to not be able to answer it.
+
+* Can you give me an example of how the company encourages you to develop your career beyond delivering on your
+  deadlines?
+
+  There are a hundred ways to grow your career and sending employees to conferences, expensing their books, giving them
+  a day (or more) each month just for reading and studying of new techniques are extremely cost-effective ways to
+  develop careers. If the company doesn't do any of these it's likely because they don't care, not because they're strapped for cash.
+
+### Exploding offers
+
+When you're given an offer a recruiter may tell you it expires after a period of time. This is a lie. They know that
+people can panic and accept a worse offer than they're entitiles to if they aren't given enough time. It's usually
+enough to politely say "Please don't use that 'exploding offer' BS with me" and tell them that you're considering the
+offer seriously.
+
+### Interview everywhere
+
+You get better at interviewing with each interview. Companies never share information about their candidates with each
+other (because you'd be able to sue them). Because of these two facts it's best to interview at many, many places if you
+have the time. There's no cost to it aside from your time and you'll just get better. You'll also find some bad
+companies reject you and some great companies accept you. The industry is terrible at interviewing.
+
+Once you start at a new job keep interviewing periodically so you always know you have an out if you need it and so you
+always know what you're worth. Six months of experience at any company gives you brand new skills that might net you
+another $10K/year.
+
+### Promises
+
+During the hiring process a recuirter or manager may make a promise about what team you'll be on, what the company will
+do for you, what special affordances they'll make for you, or who you'll be working with. Unless this is in writing and
+comes to you from people high-up in the company it's unlikely to be true. The hiring manager may mean well but the next
+week their team is re-org'd out of existence and the new manager will not have been told about your expectations.
 
 ## Human Resources
 
 The role of the HR department is to prevent the company from getting sued. There are people on these teams who are kind
 but their incentive is to prevent you from causing harm to the rest of the company. At best this means they create and
-enforce policies where you'd have no chance at a lawsuit. At worst it means they stifle your attempts to fix a
-situation.
-
+enforce policies where you'd have no reason for a lawsuit. At worst it means they stifle your attempts to fix a
+situation or cause you to doubt your sanity.
 
 ### HR and Sexual Harassment 
 
