@@ -184,7 +184,7 @@ Small or young companies tend not to distinguish these and becoming a people man
 advancement. If this is the case consider finding a role with exposure to new technologies, a role with greater
 responsibility, or hone your skills in your current role waiting for a new opportunity to present itself.
 
-Moving into a people lead role is difficult in most tech companies because the only time a position becomes open is when
+Moving into a people lead role can be painful in most tech companies because the only time a position becomes open is when
 there's been enough growth that a manager is needed immediately and there won't be enough time or resources to train
 you. If this happens ask for an external management coach to help you figure out this new job. If there's no budget for
 that your company is making a terrible mistake. You'll also want to [somebody add new-manager resources here, please!].
