@@ -223,7 +223,6 @@ also are willing to use their power on your behalf). You'll hear a lot of talk o
 offer any real mentorship and don't tell you how to take advantage of it when it's offered. Focus instead on collecting
 as many coaches as you can and try to have at least one champion inside your organization when you are ready to advance.
 
-This shouldn't be so hard but it is. It's super hard. Luckily, there's a huge network of people who're willing to step
-into the fight and help you if they know you need it.
+This shouldn't be so hard but it is. It's super hard. Luckily, there are thousands of people who've been in your shoes and who are willing to help you.
 
 
