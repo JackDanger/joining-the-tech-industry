@@ -1,10 +1,30 @@
-# Don't get screwed
+# Tech industry Handbook
 
-The tech industry is a marvel of innovation and a career here can mean solving the worlds problems while making more
+A collaborative project for women and other minorities joining the tech industry by people who've been down that road
+already and want them to succeed.
+
+Please click the title of this document above and then click the edit icon (a pencil) to make changes to this document.
+If you're reading this and you feel any emotions at all then your input is essential. If you'd rather contribute
+anonymously email [tech-industry@jackcanty.com](mailto:tech-industry@jackcanty.com) and we'll add your edits.
+
+# Be prepared
+
+The tech industry is a marvel of innovation and a career here can mean solving the world's problems while making more
 than enough money. It can also mean getting abused and hurt by a system that prioritizes profits and the status the
 founders/investors over the sanity and safety of employees. Here are some things you need to know to navigate your first
 (or next) job in the tech industry so that you don't leave the field entirely or waste your tears on organizations that
 don't deserve them.
+
+
+## Table of Contents
+[Human Resources][#human-resources]
+  [HR and Sexual Harassment][#hr-and-sexual-harassment]
+[Promotions][#promotions]
+  [Levels][#levels]
+    [Know your level][#know-your-level]
+  [Transitioning to Management][#transitioning-to-management]
+  [If you can't advance][#if-you-cant-advance]
+  [Advancing for women and other minorities][#advancing-for-women-and-other-minorities]
 
 
 ## Human Resources
@@ -25,31 +45,32 @@ If you do choose to report harassment here are some of the situations you may en
 
 * The HR rep tells you that this is the offender's first offence and they won't be taking action
 
-California state law makes the management of the company *personally* criminally liable for sexual harassment that
-happens at the company. For organiztions boasting a flat org chart this means the CEO could go to jail. In a more
-traditionally-structured company this means the people lead in the chain from harassee to CEO who fails to attempt to
-stop the harassment is the one in trouble.
+  California state law requires there be an effective response to sexual harassment claims. If no response is made the
+  management of the company is *personally*, *criminally* liable. For organizations boasting a flat org chart this means
+  the CEO could go to jail. In a more traditionally-structured company this means the people lead in the chain from
+  harassee to CEO who first fails to escalate is the one in trouble (or the CEO if it escalates successfully but nothing
+  happens).
 
-The first time someone is reported for sexual harassment they're officially put on notice by the company. At this point
-the company has dealt with the complaint but they've also admitted that there is a problem so if it happens again the
-company must take further action in order to be compliant.
-
-Any company with a decent HR team will know all this and will take a report of sexual harassment very seriously - even
-if it's the "first offense". But there are companies who believe it's worth the risk of a lawsuit in order to protect
-valuable employees from accountability and to protect the company brand. If the answer to your report of sexual
-harassment is "this is his first offense" you're at the latter type of company.
+  The first time someone is reported for sexual harassment they're officially put on notice by the company. At this
+  point the company has dealt with the complaint but they've also admitted that there is a problem so if it happens
+  again the company must take further action in order to be compliant.
+  
+  Any company with a decent HR team will know all this and will take a report of sexual harassment very seriously - even
+  if it's the first offense. But there are companies who believe it's worth the risk of a lawsuit in order to protect
+  valuable employees from accountability and to protect the company brand. If the answer to your report of sexual
+  harassment is "this is his first offense" you're at the latter type of company and HR has just lied to your face.
 
 * The HR rep will tell you whether it was really harassment.
 
-Reality: They'll always say it wasn't. Whether you choose to pursue any further action don't let yourself believe the HR
-rep's evaluation of your experience. You work in tech and you're a smartypants so trust your gut.
+  Reality: They'll always say it wasn't. Whether you choose to pursue any further action don't let yourself believe the
+  HR rep's evaluation of your experience. You work in tech and you're a smartypants so trust your gut.
 
 * The HR rep will tell you they're "taking care of it"
 
-You have a right to ask for constant updates on what the organization is doing to protect you and people like you. If
-they don't immediately fire the offender then it's either because they need to do a proper investigation or because they
-intend to do nothing. You have a right to know the means of their investigation, the timeline of it, and the outcome.
-You also have a (legal) right to disagree with the company's conclusion.
+  You have a right to ask for constant updates on what the organization is doing to protect you and people like you. If
+  they don't immediately fire the offender then it's either because they need to do a proper investigation or because
+  they intend to do nothing. You have a right to know the means of their investigation, the timeline of it, and the
+  outcome. You also have a (legal) right to disagree with the company's conclusion.
 
 Further reading:
 [11 Common Mistakes of California Sexual Harassment Victims](https://www.avvo.com/legal-guides/ugc/11-common-mistakes-of-california-sexual-harassment-victims) by Katrina Margaret Saleen
@@ -90,7 +111,18 @@ Regardless of the leveling system at your company you should always know what it
 your manager's job (one of the very few real tasks they have) to ensure you know what you need to do to get to the next
 stage of your career.
 
-### 
+### Transitioning to management
+
+There are two parallel tracks in tech: IC (individual contributor) and management.
+
+Small or young companies tend not to distinguish these and becoming a people manager may be your only path to
+advancement. If this is the case consider finding a role with exposure to new technologies, a role with greater
+responsibility, or hone your skills in your current role waiting for a new opportunity to present itself.
+
+Moving into a people lead role is difficult in most tech companies because the only time a position becomes open is when
+there's been enough growth that a manager is needed immediately and there won't be enough time or resources to train
+you. If this happens ask for an external management coach to help you figure out this new job. If there's no budget for
+that your company is making a terrible mistake. You'll also want to [somebody add new-manager resources here, please!].
 
 ### If you can't advance
 
@@ -114,4 +146,19 @@ people you work for care about you you'll know it in your bones and when you nee
 great position for you and they'll help you transition.
 
 
-### 
+### Advancing for women and other minorities
+
+If you have just graduated college or you're working in an entry-level position you may not observe any sexism or racism
+in your organization. Once you advance it's possible the people you've been working with were comfortable with you when
+they had more power and prestige but one or more of them are threatened by you.
+
+If you're a women or other minority you'll need support from empowered people outside your team and from outside your
+company. What you want to look for are coaches (people who know you and want you to succeed) and champions (coaches who
+also are willing to use their power on your behalf). You'll hear a lot of talk of mentorship but most companies don't
+offer any real mentorship and don't tell you how to take advantage of it when it's offered. Focus instead on collecting
+as many coaches as you can and try to have at least one champion inside your organization when you are ready to advance.
+
+This shouldn't be so hard but it is. It's super hard. Luckily, there's a huge network of people who're willing to step
+into the fight and help you if they know you need it.
+
+
