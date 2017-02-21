@@ -30,6 +30,7 @@ organizations that don't deserve them.
   * [Transitioning to Management](#transitioning-to-management)
   * [If you can't advance](#if-you-cant-advance)
   * [Advancing for women and other minorities](#advancing-for-women-and-other-minorities)
+* [Using privilege wisely]
 
 ## Recruiting
 A recruiter's job is to bring in candidates who are likely to pass the company interview process. Interviews are poor
@@ -214,3 +215,31 @@ great position for you and they'll help you transition.
 ### Advancing for women and other minorities
 
 [PLEASE ADD TO THIS SECTION]
+
+## Using privilege wisely
+
+If you have [white privilege](https://en.wikipedia.org/wiki/White_privilege) (whether you feel like you want it or not) or if you have [male privilege](https://en.wikipedia.org/wiki/Male_privilege) then you will have countless more opportunities and access in the tech industry than your peers who don't have one or either. There are many other [forms of privilege](https://en.wikipedia.org/wiki/Privilege_\(social_inequality\)) as well and just about everybody has some.
+
+### First: you're okay
+
+Nobody benefits from [white guilt](https://en.wikipedia.org/wiki/White_guilt) and one unnecessary burden on marginalized groups is that when they point out the imbalance of power they first have to face the defensiveness of the empowered people before even addressing the real problem. One of the simplest ways we can help marginalized folks is to simply admit to our privilege and refuse to be ashamed of it. If you say "I'm a straight white male and that gives me lots of advantages" you're not bragging (hopefully), you're just admitting to what everybody else knows and sees every day.
+
+### Identifying exclusive situations
+
+If you're white or male you'll definitely find yourself in meetings where everybody else is also white or male (or both). It may be outside your power to fix this but it's entirely within your means to raise your hand and say "I'd just like to point out that as far as I can tell there are no women in this room" (or whatever other group(s) happen to be missing). Privilege hides itself so unless people are told that situations like an all-male or all-white meeting are abnormal they likely won't notice.
+
+### Championing marginalized groups in your org
+
+You can probably befriend every minority who works with you in an afternoon. And even if you don't become friends it takes hardly any time at all to learn someone's name and role and ask them what kind of work they would like to be doing more of. Once you know this you can keep your eyes open for roles of that kind in the company and mention the name of someone who's traditionally overlooked to whomever has the power to help that person.
+
+### Taking people seriously
+
+A very simple but and effective way you can support your peers who lack one of the privileges you have is to take them seriously when they tell you about something that happened to them that would never have happened to you. If you hear a story like this know that it's an honor and it reflects that you've seemed like a safe person. So even if you can see a way to play devil's advocate just believe the words they say and let them know you'll be there to listen the next time, too. There are more than enough devils already.
+
+### Staying out of exclusive spaces
+
+There are email lists and Slack groups and monthly meetings where members of various marginalized groups gather to support each other and talk about their experience. Some of these welcome anybody who's interested and some don't, depending on if the group is meant to be externally or internally helpful. Ask if you can join and if they answer is "yes" then attend and practice speaking far less than you normally would. If the answer is "no" then respect that and start defending that "no" to people who try to force their way in. Those of us with enormous privilege have a hard time accepting that we can be denied access (even to a group that in no way involves us) and you can be a buffer against jerks trying to ruin a good thing for people who need it.
+
+### Modifying our language
+
+Language is culture and our culture has various cruelties embedded in it. One of the biggest of these is the assumption that male is the default gender. The "[universal he])(https://en.wikipedia.org/wiki/Singular_they)" is merely an encoding of this patriarchal norm into everyday language. By [avoiding the use](https://18f.gsa.gov/2016/01/12/hacking-inclusion-by-customizing-a-slack-bot/) of terms that reflect inquitable concepts we make a little portion of our workplace safer for people who don't belong to traditionally-empowered groups.
