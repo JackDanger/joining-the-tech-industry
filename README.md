@@ -30,7 +30,7 @@ organizations that don't deserve them.
   * [Transitioning to Management](#transitioning-to-management)
   * [If you can't advance](#if-you-cant-advance)
   * [Advancing for women and other minorities](#advancing-for-women-and-other-minorities)
-* [Using privilege wisely][#using-privilege-wisely]
+* [Using privilege wisely](#using-privilege-wisely)
   * [First: you're okay](#first-youre-okay)
   * [Identifying exclusive situations](#identifying-exclusive-situations)
   * [Championing marginalized groups in your org](#championing-marginalized-groups-in-your-org)
