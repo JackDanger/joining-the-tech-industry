@@ -1,7 +1,7 @@
 # Tech industry Handbook
 
-This is a collaborative project for women and other minorities joining the tech industry by people who've been down that
-road already and want them to succeed.
+This is a collaborative project for folks joining the tech industry written and maintained by people who've been down that
+road already and want new folks to have long, successful, safe careers.
 
 Please [edit this document](https://github.com/JackDanger/joining-the-tech-industry/edit/master/README.md) to tell folks
 joining their first tech job what to look out for. If you're reading this and you feel any emotions at all then your
@@ -213,16 +213,4 @@ great position for you and they'll help you transition.
 
 ### Advancing for women and other minorities
 
-If you have just graduated college or you're working in an entry-level position you may not observe any sexism or racism
-in your organization. Once you advance it's possible the people you've been working with were comfortable with you when
-they had more power and prestige but one or more of them are threatened by you.
-
-If you're a women or other minority you'll need support from empowered people outside your team and from outside your
-company. What you want to look for are coaches (people who know you and want you to succeed) and champions (coaches who
-also are willing to use their power on your behalf). You'll hear a lot of talk of mentorship but most companies don't
-offer any real mentorship and don't tell you how to take advantage of it when it's offered. Focus instead on collecting
-as many coaches as you can and try to have at least one champion inside your organization when you are ready to advance.
-
-This shouldn't be so hard but it is. It's super hard. Luckily, there are thousands of people who've been in your shoes and who are willing to help you.
-
-
+[PLEASE ADD TO THIS SECTION]
