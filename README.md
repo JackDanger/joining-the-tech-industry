@@ -30,7 +30,13 @@ organizations that don't deserve them.
   * [Transitioning to Management](#transitioning-to-management)
   * [If you can't advance](#if-you-cant-advance)
   * [Advancing for women and other minorities](#advancing-for-women-and-other-minorities)
-* [Using privilege wisely]
+* [Using privilege wisely][#using-privilege-wisely]
+  * [First: you're okay](#first-youre-okay)
+  * [Identifying exclusive situations](#identifying-exclusive-situations)
+  * [Championing marginalized groups in your org](#championing-marginalized-groups-in-your-org)
+  * [Taking people seriously](#taking-people-seriously)
+  * [Respecting exclusive spaces](#respecting-exclusive-spaces)
+  * [Modifying our language](#modifying-our-language)
 
 ## Recruiting
 A recruiter's job is to bring in candidates who are likely to pass the company interview process. Interviews are poor
@@ -236,7 +242,7 @@ You can probably befriend every minority who works with you in an afternoon. And
 
 A very simple but and effective way you can support your peers who lack one of the privileges you have is to take them seriously when they tell you about something that happened to them that would never have happened to you. If you hear a story like this know that it's an honor and it reflects that you've seemed like a safe person. So even if you can see a way to play devil's advocate just believe the words they say and let them know you'll be there to listen the next time, too. There are more than enough devils already.
 
-### Staying out of exclusive spaces
+### Respecting exclusive spaces
 
 There are email lists and Slack groups and monthly meetings where members of various marginalized groups gather to support each other and talk about their experience. Some of these welcome anybody who's interested and some don't, depending on if the group is meant to be externally or internally helpful. Ask if you can join and if they answer is "yes" then attend and practice speaking far less than you normally would. If the answer is "no" then respect that and start defending that "no" to people who try to force their way in. Those of us with enormous privilege have a hard time accepting that we can be denied access (even to a group that in no way involves us) and you can be a buffer against jerks trying to ruin a good thing for people who need it.
 
