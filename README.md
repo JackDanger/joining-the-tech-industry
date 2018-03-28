@@ -96,9 +96,9 @@ another $10K/year.
 ### Promises
 
 During the hiring process a recuirter or manager may make a promise about what team you'll be on, what the company will
-do for you, what special affordances they'll make for you, or who you'll be working with. Unless this is in writing and
-comes to you from people high-up in the company it's unlikely to be true. The hiring manager may mean well but the next
-week their team is re-org'd out of existence and the new manager will not have been told about your expectations.
+do for you, what special affordances they'll make for you, or who you'll be working with. Expect this to be true only initially. Once you join the company you'll be subject to the same reorgs and staffing adjustments as any other employee. The person you most wanted to work with may move on to a new team or a new company and your team may decide that the fun work they told you about is no longer the most urgent issue.
+
+Pick a company that has multiple roles you might enjoy. Or a company mission that is energizing to you even if your work shifts from time to time.
 
 ## Human Resources
 
